@@ -25,7 +25,7 @@ Please follow below steps for complete integration :
 ```json
 {
   "amount": 1000, //Note : Amount is in paise
-  "orderId": "12345678901234567689001", // Note : Must be alphanummeric & unique
+  "orderId": "12345678901234567689001", // Note : Optional field
   "paymentMethods": ["CARD", "QR"]
 }
 ```
