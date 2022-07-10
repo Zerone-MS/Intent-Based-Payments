@@ -1,8 +1,8 @@
-# CardsPe Intent based Payments (Android)
+# CardSe Intent based Payments (Android)
 
 ## Registration
 
-To register yourself as enterprise merchant on CardsPe, you have to contact our onboarding team. Drop an email to <sales@cards.pe> .
+To register yourself as enterprise merchant on CardSe, you have to contact our onboarding team. Drop an email to <sales@cardse.co> .
 
 ## Obtain API keys
 
