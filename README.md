@@ -101,7 +101,7 @@ Please follow below steps for complete integration :
 
 ### Note :
 
-#### 1. Webhook integration available (Please ask from your Account Manager)
+#### Webhook integration available (Please ask from your Account Manager)
 
 ## License
 
