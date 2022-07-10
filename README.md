@@ -101,9 +101,7 @@ Please follow below steps for complete integration :
 
 ### Note :
 
-#### 1. Transaction Status check API (To be updated)
-
-#### 2. Webhook integration available (Please ask from your Account Manager)
+#### 1. Webhook integration available (Please ask from your Account Manager)
 
 ## License
 
@@ -112,7 +110,7 @@ All Rights Reserved
 Copyright (c) Zerone Microsystems Private Limited
 
 Created by
-Team CardsPe
+Team CardSe
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
