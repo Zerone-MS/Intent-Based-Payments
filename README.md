@@ -57,13 +57,13 @@ Please follow below steps for complete integration :
                         if (result.getResultCode() == Activity.RESULT_OK) {
                             // Here, no request code
                             Intent data = result.getData();
-                            String cardspeTxnStatus= data.getStringExtra("status")
+                            String cardseTxnStatus= data.getStringExtra("status")
                             //doSomeOperations();
                         } } });
 
 ```
 
-#### Step 3 : Using mActivityResultLauncher to open CardsPe using Intent:
+#### Step 3 : Using mActivityResultLauncher to open CardSe using Intent:
 
 ```java
  Intent intent = new Intent(“com.cards.pe”)
@@ -74,7 +74,7 @@ Please follow below steps for complete integration :
 
 #### \*Prerequisites :
 
-##### To check if CardsPe app is installed, In your Android.Manifest file add cardspe package name in queries :
+##### To check if CardSe app is installed, In your Android.Manifest file add cardse package name in queries :
 
 ```xml
     <queries>
@@ -83,7 +83,7 @@ Please follow below steps for complete integration :
 
 ```
 
-##### Code to check if CardsPe app is installed or not :
+##### Code to check if CardSe app is installed or not :
 
 ```java
      private boolean isAppInstalled(String packageName) {
