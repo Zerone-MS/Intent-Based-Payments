@@ -1,4 +1,4 @@
-# CardSe Intent based Payments (Android)
+# CardSe Intent based Payments - v1.2(Android)
 
 ## Registration
 
