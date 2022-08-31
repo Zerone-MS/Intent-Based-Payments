@@ -103,9 +103,7 @@ Please follow below steps for complete integration :
 
 ### Note :
 
-#### 1. Transaction Status check API (To be updated)
-
-#### 2. Webhook integration available (Please ask from your Account Manager)
+#### 1. Webhook integration available (Please ask from your Account Manager)
 
 ## License
 
