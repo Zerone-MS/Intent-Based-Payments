@@ -80,6 +80,7 @@ Please follow below steps for complete integration :
 ```xml
     <queries>
         <package android:name="com.zup.merchant"/>
+        <package android:name="com.zup.merchant.debug"/>
     </queries>
 
 ```
